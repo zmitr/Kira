@@ -6,5 +6,6 @@ require 'www/body.html';
 
 
 hihi
+и еще раз
 
 ?>
